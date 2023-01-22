@@ -33,7 +33,7 @@
     line-height: 62px;
     color: #ffff;
     font-weight: 700;
-    padding: 20px;
+    padding: 10px 20px  20px  20px;
 }
 .header-title p{
     font-size: 18px;
@@ -84,6 +84,7 @@ padding: 0 0 10px 0;
 .service-card{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    padding: 0 0 0 70px;
 }
 .card-one{
     width: 300px;
